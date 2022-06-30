@@ -65,7 +65,7 @@ public class ApplicationContextBasicFindTest {
 
     }
 
-    //테스트는 실패 테스트를 만들어야함
+    //테스트는 항상 실패 테스트를 만들어야함
     @Test
     @DisplayName("빈 이름으로 조회X")
     void findBeanByNameX() {

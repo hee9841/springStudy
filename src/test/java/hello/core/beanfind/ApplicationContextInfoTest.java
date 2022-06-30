@@ -13,7 +13,6 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
  * Date: 2022-05-20
  * Time: 오후 4:27
  * PackageName : hello.core.beanfind
- * F
  */
 public class ApplicationContextInfoTest {
 
@@ -30,8 +29,6 @@ public class ApplicationContextInfoTest {
 
             System.out.println("name = " + beanDefinitionName + ", object = " + bean);
         }
-
-
 
     }
 
