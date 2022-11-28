@@ -9,4 +9,5 @@ package hello.core.testgit2;
  * PackageName : hello.core.testgit2
  */
 public class test2git {
+    //git test
 }
